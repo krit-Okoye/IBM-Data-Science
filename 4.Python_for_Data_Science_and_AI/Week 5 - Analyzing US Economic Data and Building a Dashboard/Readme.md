@@ -7,19 +7,26 @@ __1. Create a dataframe that contains the GDP data and display using the method 
 <p align="center">
   <img src="Screenshots/gdp_head.jpg" width="1200">
 </p>
-![GDP](gdp_head.jpg)
 
 __2.Create a dataframe that contains the unemployment data. Display the first five rows of the dataframe using the method head() and take a screen shot.__
 
-![Unemployment](unemployment_head.jpg)
+<p align="center">
+  <img src="Screenshots/unemployment_head.jpg" width="1200">
+</p>
+
 
 __3.Display a dataframe where unemployment was greater than 8.5% . Take a screenshot__
 
-![Unemployment > 8.5](unemployment_greater_than_8_point_five.jpg)
+<p align="center">
+  <img src="Screenshots/unemployment_greater_than_8_point_five.jpg" width="1200">
+</p>
+
 
 __4.Use the function make_dashboard to make a dashboard, then take a screen shot.__
+<p align="center">
+  <img src="Screenshots/dashboard.jpg" width="1200">
+</p>
 
-![make_dashboard](dashboard.jpg)
 
 __5.input the link for your notebook generated from Watson Studio .__
 
