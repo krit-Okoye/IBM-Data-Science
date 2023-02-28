@@ -80,6 +80,7 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
+
 ## Resources
 
 #### Capstone
