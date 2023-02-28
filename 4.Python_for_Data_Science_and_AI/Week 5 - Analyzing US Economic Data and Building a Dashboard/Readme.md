@@ -28,6 +28,3 @@ __4.Use the function make_dashboard to make a dashboard, then take a screen shot
 </p>
 
 
-__5.input the link for your notebook generated from Watson Studio .__
-
-Link to my notebook: https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/7d9c82e3-0c74-4b9c-a43e-68e0ddcc39ba/view?access_token=dad1a6d34f5a266b4ece6b5bb12f51ccd78e88e86426aef4c5496a9c40384fee
