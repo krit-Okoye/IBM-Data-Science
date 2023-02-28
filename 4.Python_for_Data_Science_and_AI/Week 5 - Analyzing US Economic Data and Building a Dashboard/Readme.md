@@ -5,7 +5,7 @@
 
 __1. Create a dataframe that contains the GDP data and display using the method head() and take a screen shot__
 <p align="center">
-  <img src="screenshot/gdp_head.jpg" width="1200">
+  <img src="Screenshots/gdp_head.jpg" width="1200">
 </p>
 ![GDP](gdp_head.jpg)
 
