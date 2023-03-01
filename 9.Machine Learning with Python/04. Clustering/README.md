@@ -10,7 +10,7 @@ This module will look at three main types of clustering algorithms and their cha
 ### Partition-based Clustering
 Partition-based clustering is a group of clustering algorithms that produces sphere-like clusters, such as; K-Means, K-Medians or Fuzzy c-Means. These algorithms are relatively efficient and are used for medium and large sized databases. Hierarchical clustering algorithms produce trees of clusters, such as agglomerative and divisive algorithms. This group of algorithms are very intuitive and are generally good for use with small size datasets. 
 
-The algorithm explored in this module is [k-means clustering](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/04.%20Clustering/01.%20k-Means.ipynb), with 2 examples:
+The algorithm explored in this module is [k-means clustering], with 2 examples:
 
 <ol>
  <li> 
