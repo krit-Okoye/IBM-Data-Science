@@ -56,6 +56,6 @@ The purpose of this course is to introduce relational database concepts and to l
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/Q5CBNHCBJKRP"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Q5CBNHCBJKRP/CERTIFICATE_LANDING_PAGE~Q5CBNHCBJKRP.jpeg" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/Q5CBNHCBJKRP"><img src="https://coursera-certificate-images.s3.amazonaws.com/Q5CBNHCBJKRP" height="430"></a>
  
 </p>
