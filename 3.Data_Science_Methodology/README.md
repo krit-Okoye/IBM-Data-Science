@@ -10,7 +10,9 @@ This course introduces data science methodologies, including the IBM Foundationa
 ## 🔑 Key Skills Learned 
 - The use of methodologies to solve business problems in a structured, consistent manner.
 - An understanding of the importance of methodologies in data science.
-
+- 
+## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
 <p align="middle">
   <a href="https://coursera.org/share/2189dc8f5d66d4f059ed4a8513d9aee9"><img src="https://coursera-certificate-images.s3.amazonaws.com/RUJDL6889VCP" height="430"></a>
  
