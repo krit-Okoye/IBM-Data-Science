@@ -28,6 +28,6 @@ To verify the certificates, click the images to follow the links.
   <a href="https://www.coursera.org/account/accomplishments/certificate/7D66JTAZZF7Y"><img src="https://coursera-certificate-images.s3.amazonaws.com/89DT94A4Y5TG" height="430"></a>
 </p>
 ## Instructors
-- Azim Hirjani
+
 - Joseph Santarcangelo
 
