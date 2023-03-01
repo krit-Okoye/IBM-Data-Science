@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM" alt="IBM" />
+	<img src="https://raw.githubusercontent.com/krit-Okoye/IBM-Data-Science/3dca80b3b2414b0145bc0386a031146a75c6e4e6/ibm.svg" title="IBM" alt="IBM" />
 </p>
 
 <br>
