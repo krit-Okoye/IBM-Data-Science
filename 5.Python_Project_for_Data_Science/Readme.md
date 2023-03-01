@@ -6,29 +6,27 @@
  <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
 </p>
 
-## About this Professional Course
 
-Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a **career in data science** or **machine learning** develop career-relevant skills and experience.
+## 📄 Summary 
+This course is intended to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project developing a dashboard using Python.
 
-This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
+## 📑 Main Topics 
+- [Extracting Stock Data Using the yfinance library](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Extracting%20Stock%20Data%20Using%20the%20yfinance%20Library.ipynb)
+- [Extracting Stock Data Using Web Scraping](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Extracting%20Stock%20Data%20Using%20Web%20Scraping.ipynb)
+- [Analyzing Historical Stock/Revenue Data and Building a Dashboard](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
 
-This course is part of the **IBM Data Science Professional Certificate** and the **IBM Data Analytics Professional Certificate**.
+## 🔑 Key Skills Learned 
+- Data extraction using the yfinance library
+- Webscraping using the BeautifulSoup library
+- Data Analysis
+- Dashboard creation
 
-In addition to earning a Professional Certificate from Coursera, you'll also receive a **digital badge from IBM** recognizing your proficiency in data science.
+## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
 
-## Applied Learning Project
-This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you **practical skills with applicability to real jobs**, including:
-
-**Tools:** Jupyter / JupyterLab, and Watson Studio
-
-**Libraries:** Pandas, BeautifulSoup, Plotly, Requests
-
-**Projects:** Web Scraping Introduction, Extracting Stock Data Using Web Scraping, Extracting Stock Data Using Python Library, Extracting and Visualisig Stock
-
-Read more below:
-
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/learn/python-project-for-data-science)
-
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/7D66JTAZZF7Y"><img src="https://coursera-certificate-images.s3.amazonaws.com/89DT94A4Y5TG" height="430"></a>
+</p>
 ## Instructors
 - Azim Hirjani
 - Joseph Santarcangelo
