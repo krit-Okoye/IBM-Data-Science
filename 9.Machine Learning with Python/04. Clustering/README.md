@@ -32,7 +32,7 @@ Hierarchical clustering algorithms build a hierarchy of clusters where each node
 
 The agglomerative approach is more popular among data scientists and is considered in this course.
 
-Again, [2 examples](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/04.%20Clustering/02.%20Agglomerative%20Clustering.ipynb) are used to explore this algorithm:
+Again, [2 examples] are used to explore this algorithm:
 
 <ol>
  <li> A random dataset of blobs </li>
