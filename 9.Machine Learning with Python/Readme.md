@@ -28,7 +28,7 @@ The [final project](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.M
   - k-Means Clustering
   - Hierarchical Clustering
   - Density Based Clustering
-- [Recommender Systems](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/09.%20Machine%20Learning%20with%20Python/05.%20Recommender%20Systems)
+- [Recommender Systems](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine%20Learning%20with%20Python/05.%20Recommender%20Systems)
   - Memory-based and model-based implementations of recommender systems
   - Content-based recommender systtems
   - Collaborative filtering systems
