@@ -22,8 +22,15 @@ Upon successfully completing these courses, you will have built a portfolio of d
 
 In addition to earning a Professional Certificate from Coursera, you'll also receive a **digital badge from IBM** recognizing your proficiency in data science.
 
-## Applied Learning Project
-This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you **practical skills with applicability to real jobs**, including:
+## 📂 Projects
+- [Extracting and Visualizing Stock Data](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/5.Python_Project_for_Data_Science/Final%20Assignment.ipynb)
+- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/6.Databases_and_SQL_for_Data_Science/05.%20Course%20Assignment)
+- [House Price Predictions](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
+- [US Domestic Airline Flights Performance Dashboard](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/7.Data_Analysis_with_Python/Week%206%20-%20Final%20Assignment)
+- [Best Classifier Model](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
+- [Predicting Successful Rocket Landings]()
+- [Dashboard and Interactive Map]()
+
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
