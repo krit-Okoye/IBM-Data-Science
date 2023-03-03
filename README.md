@@ -28,8 +28,8 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
 - [House Price Predictions](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
 - [US Domestic Airline Flights Performance Dashboard](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/7.Data_Analysis_with_Python/Week%206%20-%20Final%20Assignment)
 - [Best Classifier Model](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
-- [Predicting Successful Rocket Landings]()
-- [Dashboard and Interactive Map]()
+- [Predicting Successful Rocket Landings](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/_10.Applied_Data_Science_CapstoneReadme.md/05.%20Predictive%20Analysis%20(Classification)/05.%20Predictive%20Analysis%20(Classification).ipynb)
+- [Dashboard and Interactive Map](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/_10.Applied_Data_Science_CapstoneReadme.md/04.%20Interactive%20Visual%20Analytics)
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
