@@ -15,10 +15,10 @@ The full report can be found [here](https://github.com/DanielBarnes18/IBM-Data-S
 
 ## 📑 Main Topics 
 This project follows these steps:
-1. [Data Collection](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/01.%20Data%20Collection)
+1. [Data Collection](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/_10.Applied_Data_Science_CapstoneReadme.md/01.%20Data%20Collection)
     - Making GET requests to the SpaceX REST API
     - Web Scraping
-2. [Data Wrangling ](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/02.%20Data%20Wrangling)
+2. [Data Wrangling ](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/_10.Applied_Data_Science_CapstoneReadme.md/02.%20Data%20Wrangling/02.%20Data%20Wrangling.ipynb)
     - Using the `.fillna()` method to remove NaN values
     - Using the `.value_counts()` method to determine the following:
         - Number of launches on each site
@@ -27,13 +27,13 @@ This project follows these steps:
     - Creating a landing outcome label that shows the following:
         - 0 when the booster did not land successfully
         - 1 when the booster did land successfully
-3. [Exploratory Data Analysis](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/03.%20Exploratory%20Data%20Analysis)
+3. [Exploratory Data Analysis](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/_10.Applied_Data_Science_CapstoneReadme.md/03.%20Exploratory%20Data%20Analysis)
     - Using SQL queries to manipulate and evaluate the SpaceX dataset
     - Using Pandas and Matplotlib to visualize relationships between variables, and determine patterns
-4. [Interactive Visual Analytics](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/04.%20Interactive%20Visual%20Analytics)
+4. [Interactive Visual Analytics](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/_10.Applied_Data_Science_CapstoneReadme.md/04.%20Interactive%20Visual%20Analytics)
     - Geospatial analytics using Folium
     - Creating an interactive dashboard using Plotly Dash
-5. [Predictive Analysis (Classification)](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/05.%20Predictive%20Analysis%20(Classification))
+5. [Predictive Analysis (Classification)](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/_10.Applied_Data_Science_CapstoneReadme.md/05.%20Predictive%20Analysis%20(Classification)/05.%20Predictive%20Analysis%20(Classification).ipynb)
     - Using Scikit-Learn to:
         - Pre-process (standardize) the data
         - Split the data into training and testing data using train_test_split
