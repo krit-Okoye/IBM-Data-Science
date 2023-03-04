@@ -89,6 +89,6 @@ Read more below:
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
-<p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE">                                <img src="./assets/IBM_data_science.png" height="400"></a>
-  
+  <p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QDET4FTDAYEJ"        target="_blank" rel="noreferrer">
+        <img align="center" img width="100%"  src="./assets/IBM_data_science.png"></a>
