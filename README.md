@@ -90,5 +90,5 @@ Read more below:
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE">.                                <img src="./assets/IBM_data_science.png" height="400"></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/BRLXXLPF59PE">                                <img src="./assets/IBM_data_science.png" height="400"></a>
   
