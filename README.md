@@ -90,4 +90,4 @@ Read more below:
 To verify the certificates, click the images to follow the links.
 
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QDET4FTDAYEJ"        target="_blank" rel="noreferrer">
-        <img align="center" img width="100%"  src="IBM-Data-Science/IBM_data_science.png"></a>
+        <img align="center" img width="100%"  src="./IBM-Data-Science/IBM_data_science.png"></a>
