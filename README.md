@@ -81,7 +81,7 @@ Read more below:
 | 7.     | [Data Analysis with Python](7.Data_Analysis_with_Python)                   |
 | 8.     | [Data Visualization with Python](8.Data_Visualization_with_Python)         |
 | 9.     | [Machine Learning with Python](9.Machine Learning with Python)             |
-| 10.    | [Applied Data Science Capstone](_10.Applied_Data_Science_CapstoneReadme.md)          | 
+| 10.    | [Applied Data Science Capstone](_10.Applied_Data_Science_CapstoneReadme.md)| 
  
 
 
