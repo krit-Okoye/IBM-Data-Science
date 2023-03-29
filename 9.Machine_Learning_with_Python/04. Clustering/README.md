@@ -88,7 +88,7 @@ For example, for `R=2`, `M=6`, the following clusters are created:
 
 This module explores the example of [Weather Station Clustering using DBSCAN & scikit-learn](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.Machine_Learning_with_Python/04.%20Clustering/02.%20Agglomerative%20Clustering.ipynb), where we can see the clustering of stations based on their location, mean, max, and min temperature:
 
-![weather_station_clustering](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.Machine_Learning_with_Python/04.%20Clustering/03.%20Density-based%20Clustering.ipynb)
+![weather_station_clustering.png](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.Machine_Learning_with_Python/04.%20Clustering/03.%20Density-based%20Clustering.ipynb)
 
 
 ## Use Cases
