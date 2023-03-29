@@ -5,20 +5,20 @@ This course provides an overview of the purpose of Machine Learning, and where i
 
 To explore the methods of machine learning, and the algorithms involved, many example projects are embarked upon and explored, including cancer detection, predicting economic trends, predicting customer churn, and recommendation engines. 
 
-The [final project](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine%20Learning%20with%20Python/Final%20Project) within this course is the building of a classifier to predict whether a loan case will be paid off. It is a classification problem, and KNN, Decision Tree, SVM, and Logistic Regression are all used to determine the best algorithm to use.
+The [final project](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.Machine_Learning_with_Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb) within this course is the building of a classifier to predict whether a loan case will be paid off. It is a classification problem, and KNN, Decision Tree, SVM, and Logistic Regression are all used to determine the best algorithm to use.
 
 ## 📑 Main Topics 
-- [Introduction to Machine Learning](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine%20Learning%20with%20Python/02.%20Regression)
+- [Introduction to Machine Learning](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine_Learning_with_Python/01.%20Introduction%20to%20Machine%20Learning)
   - Examples of machine learning in various industries
   - The steps machine learning uses to solve problems
   - Examples of techniques and Python libraries used 
   - Differences between Supervised and Unsupervised algorithms
-- [Regression](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine%20Learning%20with%20Python/02.%20Regression)
+- [Regression](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine_Learning_with_Python/02.%20Regression)
   - Simple linear regression
   - Multiple linear regression
   - Non-linear regression
   - Evaluating regression models
-- [Classification](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine%20Learning%20with%20Python/03.%20Classification)
+- [Classification](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine_Learning_with_Python/03.%20Classification)
   - Comparisons between the different classification methods
   - K Nearest Neighbours (KNN) algorithm
   - Decision Trees
