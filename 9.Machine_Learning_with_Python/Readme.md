@@ -24,11 +24,11 @@ The [final project](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.M
   - Decision Trees
   - Logistic Regression
   - Support Vector Machines
-- [Clustering](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine%20Learning%20with%20Python/04.%20Clustering)
+- [Clustering](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine_Learning_with_Python/04.%20Clustering)
   - k-Means Clustering
   - Hierarchical Clustering
   - Density Based Clustering
-- [Recommender Systems](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine%20Learning%20with%20Python/05.%20Recommender%20Systems)
+- [Recommender Systems](https://github.com/krit-Okoye/IBM-Data-Science/tree/main/9.Machine_Learning_with_Python/05.%20Recommender%20Systems)
   - Memory-based and model-based implementations of recommender systems
   - Content-based recommender systtems
   - Collaborative filtering systems
