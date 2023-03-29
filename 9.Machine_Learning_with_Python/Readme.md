@@ -42,5 +42,5 @@ The [final project](https://github.com/krit-Okoye/IBM-Data-Science/blob/main/9.M
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/SMDK9VHD5WJH"><img src="https://coursera-certificate-images.s3.amazonaws.com/SMDK9VHD5WJH" height="430"></a>
+  <a href=""><img src="" height="430"></a>
 </p>
