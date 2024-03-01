@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 <p align="center">
-  <img src="Images/SpaceX.jpeg" width="1200">
+  <img src="https://github.com/krit-Okoye/IBM-Data-Science/blob/main/_10.Applied_Data_Science_CapstoneReadme.md/SpaceX.jpeg" width="1200">
 </p>
 
 ## 📄 Summary
