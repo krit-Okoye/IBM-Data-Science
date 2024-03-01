@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 <p align="center">
-  <img src="Images/TitlePage.png" width="1200">
+  <img src="Images/SpaceX.jpeg" width="1200">
 </p>
 
 ## 📄 Summary
